@@ -2,7 +2,7 @@
 
 ## Overview
 
-Complete auto-discovery template
+Complete auto-discovery Zabbix template for Juniper EX
 
 ## Applications
 
