@@ -30,6 +30,8 @@ Uptime
 
 Zabbix >2.4.x
 
+Juniper EX4300
+
 ## Features, Fixes
 
 {$SNMP_COMMUNITY}
